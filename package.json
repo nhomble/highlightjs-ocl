@@ -1,0 +1,29 @@
+{
+  "name": "highlightjs-ocl",
+  "version": "1.0.0",
+  "description": "highlight.js syntax definition for object constraint language",
+  "main": "src/ocl.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhomble/highlightjs-ocl.git"
+  },
+  "keywords": [
+    "ocl",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Nicolas Homble <nhomble@terpmail.umd.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhomble/highlightjs-ocl/issues"
+  },
+  "homepage": "https://github.com/nhomble/highlightjs-ocl#README.md",
+  "devDependencies": {
+    "highlightjs": "^9.12.0",
+    "mocha": "^6.2.1"
+  }
+}
