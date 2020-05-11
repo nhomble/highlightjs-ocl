@@ -17,5 +17,5 @@ hljs.initHighlightingOnLoad();
 ## Building
 Go to [highlight.js](https://github.com/highlightjs/highlight.js) and update ```ocl.js``` directly into the library. Then run their build tool
 ```shell script
-$  node .\tools\build.js ocl
+$  node ./tools/build.js ocl
 ```
