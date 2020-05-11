@@ -13,3 +13,9 @@ import hljsocl from 'highlightjs-ocl'
 hljs.registerLanguage('ocl', hljsocl);
 hljs.initHighlightingOnLoad();
 ```
+
+## Building
+Go to [highlight.js](https://github.com/highlightjs/highlight.js) and update ```ocl.js``` directly into the library. Then run their build tool
+```shell script
+$  node .\tools\build.js ocl
+```
