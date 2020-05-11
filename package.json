@@ -1,7 +1,7 @@
 {
   "name": "highlightjs-ocl",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "highlight.js syntax definition for object constraint language",
   "main": "src/ocl.js",
   "scripts": {
