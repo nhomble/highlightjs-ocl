@@ -1,7 +1,7 @@
 {
   "name": "highlightjs-ocl",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "highlight.js syntax definition for object constraint language",
   "main": "src/ocl.js",
   "scripts": {
@@ -27,5 +27,7 @@
     "highlight.js": "^10.0.2",
     "mocha": "^7.1.2"
   },
-  "unpkg": "dist/ocl.min.js"
+  "files": [
+    "dist"
+  ]
 }
