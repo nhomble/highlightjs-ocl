@@ -1,0 +1,3 @@
+<span class="hljs-keyword">context</span> AnotherModel
+    <span class="hljs-keyword">pre</span> yourMethod: <span class="hljs-keyword">self</span>.value == 0
+    <span class="hljs-keyword">post</span> yourMethod: <span class="hljs-keyword">self</span>.value &gt; 0

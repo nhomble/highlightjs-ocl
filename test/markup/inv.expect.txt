@@ -1,0 +1,2 @@
+<span class="hljs-keyword">context</span> MyModel
+    <span class="hljs-keyword">inv</span> nonZero: <span class="hljs-keyword">self</span>.value &gt; 0
