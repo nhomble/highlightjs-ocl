@@ -1,7 +1,7 @@
 {
   "name": "highlightjs-ocl",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "highlight.js syntax definition for object constraint language",
   "main": "src/ocl.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nhomble/highlightjs-ocl#README.md",
   "devDependencies": {
-    "highlight.js": "^10.0.2",
+    "highlight.js": "^10.1.1",
     "mocha": "^7.1.2"
   },
   "files": [
