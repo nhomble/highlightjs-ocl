@@ -1,1 +1,1 @@
-<span class="hljs-comment">-- don't mind me</span>
+<span class="hljs-comment">-- don&#x27;t mind me</span>
