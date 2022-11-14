@@ -25,7 +25,7 @@
   "homepage": "https://github.com/nhomble/highlightjs-ocl#README.md",
   "devDependencies": {
     "highlight.js": "^10.1.1",
-    "mocha": "^7.1.2"
+    "mocha": "^10.1.0"
   },
   "files": [
     "dist"
